@@ -1,0 +1,38 @@
+body {
+    background: linear-gradient(to right, #f8bbd0, #bbdefb);
+    min-height: 100vh;
+    font-family: 'Poppins', sans-serif;
+}
+
+.card {
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.btn-custom {
+    background-color: #81d4fa;
+    color: #fff;
+    border-radius: 30px;
+    border: none;
+}
+.btn-custom:hover {
+    background-color: #4fc3f7;
+    color: #fff;
+}
+
+.navbar {
+    background: linear-gradient(to right, #f48fb1, #81d4fa);
+    border-bottom: 3px solid #fff;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.4rem;
+}
+
+.badge {
+    font-size: 0.9rem;
+    padding: 0.4em 0.6em;
+    border-radius: 10px;
+}
